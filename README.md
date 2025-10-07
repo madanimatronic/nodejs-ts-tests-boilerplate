@@ -5,7 +5,7 @@
 Базовый boilerplate с настроенными тестами `jest` и `supertest` для разработки приложений на `node.js` с `TypeScript`<br>
 Данный boilerplate сделан на основе `basic-nodejs-ts-boilerplate`
 
-## Настройка тестов в существующем проекте
+## Настройка тестов в существующем проекте (гайд)
 
 ### Jest
 
